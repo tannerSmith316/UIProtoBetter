@@ -1,0 +1,413 @@
+TOfflineViewController
+v7
+r0
+t341573232.980646
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/Info.plist OfflineViewController-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.xib
+cCpResource build/Debug-iphonesimulator/OfflineViewController.app/badVirus.png ../Images/badVirus.png
+cCpResource build/Debug-iphonesimulator/OfflineViewController.app/flumask.png ../Images/flumask.png
+cCpResource build/Debug-iphonesimulator/OfflineViewController.app/potion.png ../Images/potion.png
+cCpResource build/Debug-iphonesimulator/OfflineViewController.app/shopkeaper.png ../Images/shopkeaper.png
+cCpResource build/Debug-iphonesimulator/OfflineViewController.app/stashCart.png ../Images/stashCart.png
+cCpResource build/Debug-iphonesimulator/OfflineViewController.app/storeTag.png ../Images/storeTag.png
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch.gch OfflineViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewControllerAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndexViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController normal i386
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/badVirus.png
+c000000004EABC3DB0000000000009984
+t1319879643
+s39300
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/flumask.png
+c000000004EABC2F5000000000000152A
+t1319879413
+s5418
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/potion.png
+c000000004EABC37A0000000000002778
+t1319879546
+s10104
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/shopkeaper.png
+c000000004EABC4870000000000008D40
+t1319879815
+s36160
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/stashCart.png
+c000000004CB8B4EC0000000000000B93
+t1287173356
+s2963
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/storeTag.png
+c000000004CB8B4D60000000000000C0E
+t1287173334
+s3086
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/treasure-chest.png
+c000000004EAA476C00000000000015BC
+t1319782252
+s5564
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndex.h
+c000000004EABC00200000000000000FA
+t1319878658
+s250
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndex.m
+c000000004EABC00200000000000005B8
+t1319878658
+s1464
+i"OfflineIndex.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndex.xib
+c000000004EABC002000000000000185F
+t1319878658
+s6239
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.h
+c000000004EABC0260000000000000116
+t1319878694
+s278
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m
+c000000004EABC02600000000000005E2
+t1319878694
+s1506
+i"OfflineIndexViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.xib
+c000000004EABC5FB0000000000005B58
+t1319880187
+s23384
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.h
+c000000004EABBFCE0000000000000181
+t1319878606
+s385
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m
+c000000004EABC6EF0000000000000B14
+t1319880431
+s2836
+i"OfflineViewControllerAppDelegate.h"
+i"OfflineIndexViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/MainWindow.xib
+c000000004EABBFCE000000000000214E
+t1319878606
+s8526
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/OfflineViewController_Prefix.pch
+c000000004EABBFCE00000000000000D3
+t1319878606
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app
+t1319880432
+s442
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app.dSYM
+t1319880432
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/Info.plist
+t1319880431
+s653
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/MainWindow.nib
+t1319880432
+s1545
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineIndex.nib
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineIndexViewController.nib
+t1319880432
+s3520
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController
+t1319880432
+s17476
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/PkgInfo
+t1319880431
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/badVirus.png
+t1319880432
+s39300
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/flumask.png
+t1319880432
+s5418
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/potion.png
+t1319880432
+s10104
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/shopkeaper.png
+t1319880432
+s36160
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/stashCart.png
+t1319880432
+s2963
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/storeTag.png
+t1319880432
+s3086
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/treasure-chest.png
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndex.o
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndexViewController.o
+t1319880432
+s38312
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewController.LinkFileList
+c000000004EABC6EF000000000000024E
+t1319880431
+s590
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewControllerAppDelegate.o
+t1319880432
+s51776
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/main.o
+t1319880432
+s6372
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m
+c000000004EABBFCE0000000000000187
+t1319878606
+s391
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch.gch
+t1319880432
+s15814064
+
+NOfflineViewController-Info.plist
+c000000004EABBFCE000000000000038D
+t1319878606
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341573231#341573231#0(0"0(0#1#0"8247338241774543872#0"0#
+
+CCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndex.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndex.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndexViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341573232.754954
+e341573232.823688
+r1
+xCompileC
+xbuild/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndexViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m341573232#341573232#0(0"0(0#0#105"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m8617355712#2576"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineIndexViewController.o0#
+
+CCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewControllerAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341573232.753034
+e341573232.938715
+r1
+xCompileC
+xbuild/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewControllerAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m341573232#341573232#0(0"0(0#0#111"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m8617050144#2588"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineViewControllerAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewControllerAppDelegate.o0#
+
+CCompileC build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341573232.751412
+e341573232.804955
+r1
+xCompileC
+xbuild/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m341573232#341573232#0(0"0(0#0#75"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m8617724032#2524"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndex.xib
+r0
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.xib
+s341573231.793019
+e341573232.183551
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.xib
+lSLF07#2@49"CompileXIB Classes/OfflineIndexViewController.xib341573231#341573232#0(0"0(0#0#107"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.xib8617845760#714"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineIndexViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/Classes/OfflineIndexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/MainWindow.xib
+s341573231.792279
+e341573232.129514
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341573231#341573232#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/MainWindow.xib8618195776#674"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/badVirus.png ../Images/badVirus.png
+s341573231.793701
+e341573232.095225
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OfflineViewController.app/badVirus.png
+x../Images/badVirus.png
+lSLF07#2@27"Copy ../Images/badVirus.png341573231#341573232#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/badVirus.png8617555328#584"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/badVirus.png /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/flumask.png ../Images/flumask.png
+s341573231.794381
+e341573232.093933
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OfflineViewController.app/flumask.png
+x../Images/flumask.png
+lSLF07#2@26"Copy ../Images/flumask.png341573231#341573232#0(0"0(0#0#90"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/flumask.png8617152928#583"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/flumask.png /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/potion.png ../Images/potion.png
+s341573231.795070
+e341573232.094973
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OfflineViewController.app/potion.png
+x../Images/potion.png
+lSLF07#2@25"Copy ../Images/potion.png341573231#341573232#0(0"0(0#0#89"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/potion.png8616558624#582"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/potion.png /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/shopkeaper.png ../Images/shopkeaper.png
+s341573231.795711
+e341573232.095616
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OfflineViewController.app/shopkeaper.png
+x../Images/shopkeaper.png
+lSLF07#2@29"Copy ../Images/shopkeaper.png341573231#341573232#0(0"0(0#0#93"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/shopkeaper.png8618061152#586"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/shopkeaper.png /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/stashCart.png ../Images/stashCart.png
+s341573231.796372
+e341573232.094330
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OfflineViewController.app/stashCart.png
+x../Images/stashCart.png
+lSLF07#2@28"Copy ../Images/stashCart.png341573231#341573232#0(0"0(0#0#92"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/stashCart.png8616922752#585"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/stashCart.png /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/storeTag.png ../Images/storeTag.png
+s341573231.797048
+e341573232.095394
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/OfflineViewController.app/storeTag.png
+x../Images/storeTag.png
+lSLF07#2@27"Copy ../Images/storeTag.png341573231#341573232#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/storeTag.png8617318784#584"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/../Images/storeTag.png /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+
+CCpResource build/Debug-iphonesimulator/OfflineViewController.app/treasure-chest.png ../Images/treasure-chest.png
+r0
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController
+s341573232.967470
+e341573232.978470
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController
+lSLF07#2@151"GenerateDSYMFile build/Debug-iphonesimulator/OfflineViewController.app.dSYM build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController341573232#341573232#0(0"0(0#0#144"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController8617664448#515"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController -o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController normal i386
+s341573232.938852
+e341573232.967379
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController
+xnormal
+xi386
+lSLF07#2@149"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController341573232#341573232#0(0"0(0#0#0"8617929856#1120"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator -F/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/Objects-normal/i386/OfflineViewController.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/OfflineViewController0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/Info.plist OfflineViewController-Info.plist
+s341573231.789258
+e341573231.792174
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/Info.plist
+xOfflineViewController-Info.plist
+lSLF07#2@40"Process OfflineViewController-Info.plist341573231#341573231#0(0"0(0#0#101"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/OfflineViewController-Info.plist31244160508756040#611"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OfflineViewController-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch.gch OfflineViewController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341573232.183664
+e341573232.751204
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch.gch
+xOfflineViewController_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile OfflineViewController_Prefix.pch341573232#341573232#0(0"0(0#0#101"/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/OfflineViewController_Prefix.pch8618379616#2372"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/OfflineViewController-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/OfflineViewController.build/Debug-iphonesimulator/OfflineViewController.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/OfflineViewController_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/OfflineViewController_Prefix-augyrpwyvdjsaxcnsbrrqmvolcey/OfflineViewController_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app
+s341573232.978544
+e341573232.980611
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app
+lSLF07#2@128"Touch /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app341573232#341573232#0(0"0(0#0#0"8616679360#352"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/OfflineViewController/build/Debug-iphonesimulator/OfflineViewController.app0#
+

@@ -1,0 +1,317 @@
+TInterfacing
+v7
+r0
+t350283185.037676
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Info.plist Interfacing-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/InterfacingViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch.gch Interfacing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/iAnimal.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Duck.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Animal.h
+c000000004F30AD0F00000000000000E4
+t1328590095
+s228
+i<Foundation/Foundation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Animal.m
+c000000004F30AD0F00000000000000CA
+t1328590095
+s202
+i"Animal.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h
+c000000004F30AE2F00000000000000E9
+t1328590383
+s233
+i<Foundation/Foundation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m
+c000000004F30ADBB00000000000000C4
+t1328590267
+s196
+i"Duck.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.h
+c000000004F30ACFD0000000000000205
+t1328590077
+s517
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m
+c000000004F30ACFD0000000000000ACC
+t1328590077
+s2764
+i"InterfacingAppDelegate.h"
+i"InterfacingViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.h
+c000000004F30AE2F0000000000000109
+t1328590383
+s265
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m
+c000000004F30ACFD00000000000005DF
+t1328590077
+s1503
+i"InterfacingViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.h
+c000000004F30AE2F0000000000000119
+t1328590383
+s281
+i<Foundation/Foundation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m
+c000000004F30AD6500000000000000CD
+t1328590181
+s205
+i"iAnimal.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/InterfacingViewController.xib
+c000000004F30ACFD0000000000001A55
+t1328590077
+s6741
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Interfacing_Prefix.pch
+c000000004F30ACFD00000000000000BF
+t1328590077
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/MainWindow.xib
+c000000004F30ACFD0000000000004E59
+t1328590077
+s20057
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app.dSYM
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Info.plist
+t1328590383
+s607
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Interfacing
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/InterfacingViewController.nib
+t1328590384
+s1269
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/MainWindow.nib
+t1328590384
+s1689
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/PkgInfo
+t1328590383
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Animal.o
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Duck.o
+t2
+s0
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Interfacing.LinkFileList
+c000000004F30AE2F0000000000000318
+t1328590383
+s792
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingAppDelegate.o
+t1328590384
+s51584
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingViewController.o
+t1328590384
+s38068
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/iAnimal.o
+t1328590384
+s5084
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/main.o
+t1328590384
+s6352
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m
+c000000004F30ACFD000000000000017B
+t1328590077
+s379
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch.gch
+t1328590384
+s15814064
+
+NInterfacing-Info.plist
+c000000004F30ACFD000000000000038D
+t1328590077
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350283183#350283183#0(0"0(0#1#0"8624830752#0"0#
+
+CCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Animal.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Animal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Duck.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350283184.982274
+e350283185.037521
+r0
+xCompileC
+xbuild/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Duck.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m:9:
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h:12: error: cannot find interface declaration for 'iAnimal', superclass of 'Duck'
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h:12: error: cannot find protocol declaration for 'iAnimal'
+lSLF07#2@81"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m350283184#350283185#0(386"In file included from /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m:9:/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h:12: error: cannot find interface declaration for 'iAnimal', superclass of 'Duck'/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h:12: error: cannot find protocol declaration for 'iAnimal'2(4@69"Cannot find interface declaration for 'iAnimal', superclass of 'Duck'350283185#99#155#2(7@95"In file included from /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m350283185#18446744073709551615#0#0(6@73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m350283067#9#0#9#0#0"0(13@146"Cannot find interface declaration for 'iAnimal', superclass of 'Duck' in /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h350283185#18446744073709551615#0#0(6@73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h350283183#12#0#12#0#0"0(6@73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h350283183#12#0#12#0#60"cannot find interface declaration for '*', superclass of '*'0(4@46"Cannot find protocol declaration for 'iAnimal'350283185#254#132#2(7@95"In file included from /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m350283185#18446744073709551615#0#0(6@73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m350283067#9#0#9#0#0"0(13@123"Cannot find protocol declaration for 'iAnimal' in /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h350283185#18446744073709551615#0#0(6@73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h350283183#12#0#12#0#0"0(6@73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.h350283183#12#0#12#0#0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m8623534528#2222"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/Duck.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/Duck.o1#
+
+CCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350283184.911616
+e350283185.000003
+r1
+xCompileC
+xbuild/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m350283184#350283184#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m8624369504#2258"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingAppDelegate.o0#
+
+CCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350283184.912741
+e350283184.987649
+r1
+xCompileC
+xbuild/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m350283184#350283184#0(0"0(0#0#94"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m8623925472#2264"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/InterfacingViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/InterfacingViewController.o0#
+
+CCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/iAnimal.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350283184.914031
+e350283184.982112
+r1
+xCompileC
+xbuild/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/iAnimal.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m350283184#350283184#0(0"0(0#0#76"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m8623320064#2228"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Classes/iAnimal.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/iAnimal.o0#
+
+CCompileC build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350283184.910044
+e350283184.983717
+r1
+xCompileC
+xbuild/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m350283184#350283184#0(0"0(0#0#65"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m8624845280#2214"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/InterfacingViewController.xib
+s350283183.920072
+e350283184.258168
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/InterfacingViewController.xib
+lSLF07#2@40"CompileXIB InterfacingViewController.xib350283183#350283184#0(0"0(0#0#88"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/InterfacingViewController.xib8615965856#664"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/InterfacingViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/InterfacingViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/MainWindow.xib
+s350283183.919509
+e350283184.264681
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib350283183#350283184#0(0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/MainWindow.xib8616104576#634"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Interfacing
+r0
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Interfacing normal i386
+r0
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Info.plist Interfacing-Info.plist
+s350283183.915757
+e350283183.919434
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Info.plist
+xInterfacing-Info.plist
+lSLF07#2@30"Process Interfacing-Info.plist350283183#350283183#0(0"0(0#0#81"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Interfacing-Info.plist8616771392#551"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Interfacing-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch.gch Interfacing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350283184.264794
+e350283184.909863
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch.gch
+xInterfacing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Interfacing_Prefix.pch350283184#350283184#0(0"0(0#0#81"/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Interfacing_Prefix.pch8622924000#2082"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/Interfacing-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Interfacing.build/Debug-iphonesimulator/Interfacing.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/Interfacing_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Interfacing_Prefix-hjipwomvmzrwzkeidjagtbkwfnex/Interfacing_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/Interfacing/build/Debug-iphonesimulator/Interfacing.app
+r0
+

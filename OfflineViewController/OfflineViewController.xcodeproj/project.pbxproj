@@ -1,0 +1,320 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* OfflineViewControllerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* OfflineViewControllerAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		72FE51CC145BF7A60001E0BD /* OfflineIndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE51CA145BF7A60001E0BD /* OfflineIndexViewController.m */; };
+		72FE51CD145BF7A60001E0BD /* OfflineIndexViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51CB145BF7A60001E0BD /* OfflineIndexViewController.xib */; };
+		72FE51E0145BFC6D0001E0BD /* badVirus.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51D9145BFC6D0001E0BD /* badVirus.png */; };
+		72FE51E1145BFC6D0001E0BD /* flumask.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51DA145BFC6D0001E0BD /* flumask.png */; };
+		72FE51E2145BFC6D0001E0BD /* potion.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51DB145BFC6D0001E0BD /* potion.png */; };
+		72FE51E3145BFC6D0001E0BD /* shopkeaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51DC145BFC6D0001E0BD /* shopkeaper.png */; };
+		72FE51E4145BFC6D0001E0BD /* stashCart.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51DD145BFC6D0001E0BD /* stashCart.png */; };
+		72FE51E5145BFC6D0001E0BD /* storeTag.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE51DE145BFC6D0001E0BD /* storeTag.png */; };
+		72FE520F145C01DF0001E0BD /* StashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE520D145C01DF0001E0BD /* StashViewController.m */; };
+		72FE5210145C01DF0001E0BD /* StashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE520E145C01DF0001E0BD /* StashViewController.xib */; };
+		72FE5214145C01F10001E0BD /* StoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE5212145C01F10001E0BD /* StoreViewController.m */; };
+		72FE5215145C01F10001E0BD /* StoreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5213145C01F10001E0BD /* StoreViewController.xib */; };
+		72FE522E145C5B4B0001E0BD /* MiniGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE522C145C5B4B0001E0BD /* MiniGameViewController.m */; };
+		72FE522F145C5B4B0001E0BD /* MiniGameViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE522D145C5B4B0001E0BD /* MiniGameViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* OfflineViewControllerAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfflineViewControllerAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* OfflineViewControllerAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OfflineViewControllerAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* OfflineViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OfflineViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* OfflineViewController_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfflineViewController_Prefix.pch; sourceTree = "<group>"; };
+		72FE51C9145BF7A60001E0BD /* OfflineIndexViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfflineIndexViewController.h; sourceTree = "<group>"; };
+		72FE51CA145BF7A60001E0BD /* OfflineIndexViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OfflineIndexViewController.m; sourceTree = "<group>"; };
+		72FE51CB145BF7A60001E0BD /* OfflineIndexViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = OfflineIndexViewController.xib; path = Classes/OfflineIndexViewController.xib; sourceTree = "<group>"; };
+		72FE51D9145BFC6D0001E0BD /* badVirus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = badVirus.png; path = ../Images/badVirus.png; sourceTree = SOURCE_ROOT; };
+		72FE51DA145BFC6D0001E0BD /* flumask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flumask.png; path = ../Images/flumask.png; sourceTree = SOURCE_ROOT; };
+		72FE51DB145BFC6D0001E0BD /* potion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = potion.png; path = ../Images/potion.png; sourceTree = SOURCE_ROOT; };
+		72FE51DC145BFC6D0001E0BD /* shopkeaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shopkeaper.png; path = ../Images/shopkeaper.png; sourceTree = SOURCE_ROOT; };
+		72FE51DD145BFC6D0001E0BD /* stashCart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = stashCart.png; path = ../Images/stashCart.png; sourceTree = SOURCE_ROOT; };
+		72FE51DE145BFC6D0001E0BD /* storeTag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = storeTag.png; path = ../Images/storeTag.png; sourceTree = SOURCE_ROOT; };
+		72FE520C145C01DF0001E0BD /* StashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StashViewController.h; sourceTree = "<group>"; };
+		72FE520D145C01DF0001E0BD /* StashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StashViewController.m; sourceTree = "<group>"; };
+		72FE520E145C01DF0001E0BD /* StashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = StashViewController.xib; path = Classes/StashViewController.xib; sourceTree = "<group>"; };
+		72FE5211145C01F10001E0BD /* StoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoreViewController.h; sourceTree = "<group>"; };
+		72FE5212145C01F10001E0BD /* StoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoreViewController.m; sourceTree = "<group>"; };
+		72FE5213145C01F10001E0BD /* StoreViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = StoreViewController.xib; path = Classes/StoreViewController.xib; sourceTree = "<group>"; };
+		72FE522B145C5B4B0001E0BD /* MiniGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MiniGameViewController.h; sourceTree = "<group>"; };
+		72FE522C145C5B4B0001E0BD /* MiniGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MiniGameViewController.m; sourceTree = "<group>"; };
+		72FE522D145C5B4B0001E0BD /* MiniGameViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MiniGameViewController.xib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* OfflineViewController-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "OfflineViewController-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* OfflineViewControllerAppDelegate.h */,
+				1D3623250D0F684500981E51 /* OfflineViewControllerAppDelegate.m */,
+				72FE51C9145BF7A60001E0BD /* OfflineIndexViewController.h */,
+				72FE51CA145BF7A60001E0BD /* OfflineIndexViewController.m */,
+				72FE520C145C01DF0001E0BD /* StashViewController.h */,
+				72FE520D145C01DF0001E0BD /* StashViewController.m */,
+				72FE5211145C01F10001E0BD /* StoreViewController.h */,
+				72FE5212145C01F10001E0BD /* StoreViewController.m */,
+				72FE522B145C5B4B0001E0BD /* MiniGameViewController.h */,
+				72FE522C145C5B4B0001E0BD /* MiniGameViewController.m */,
+				72FE522D145C5B4B0001E0BD /* MiniGameViewController.xib */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* OfflineViewController.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				72FE51D8145BFC3C0001E0BD /* Images */,
+				32CA4F630368D1EE00C91783 /* OfflineViewController_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				72FE5213145C01F10001E0BD /* StoreViewController.xib */,
+				72FE520E145C01DF0001E0BD /* StashViewController.xib */,
+				72FE51CB145BF7A60001E0BD /* OfflineIndexViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* OfflineViewController-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		72FE51D8145BFC3C0001E0BD /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				72FE51D9145BFC6D0001E0BD /* badVirus.png */,
+				72FE51DA145BFC6D0001E0BD /* flumask.png */,
+				72FE51DB145BFC6D0001E0BD /* potion.png */,
+				72FE51DC145BFC6D0001E0BD /* shopkeaper.png */,
+				72FE51DD145BFC6D0001E0BD /* stashCart.png */,
+				72FE51DE145BFC6D0001E0BD /* storeTag.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* OfflineViewController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "OfflineViewController" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OfflineViewController;
+			productName = OfflineViewController;
+			productReference = 1D6058910D05DD3D006BFB54 /* OfflineViewController.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "OfflineViewController" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* OfflineViewController */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				72FE51CD145BF7A60001E0BD /* OfflineIndexViewController.xib in Resources */,
+				72FE51E0145BFC6D0001E0BD /* badVirus.png in Resources */,
+				72FE51E1145BFC6D0001E0BD /* flumask.png in Resources */,
+				72FE51E2145BFC6D0001E0BD /* potion.png in Resources */,
+				72FE51E3145BFC6D0001E0BD /* shopkeaper.png in Resources */,
+				72FE51E4145BFC6D0001E0BD /* stashCart.png in Resources */,
+				72FE51E5145BFC6D0001E0BD /* storeTag.png in Resources */,
+				72FE5210145C01DF0001E0BD /* StashViewController.xib in Resources */,
+				72FE5215145C01F10001E0BD /* StoreViewController.xib in Resources */,
+				72FE522F145C5B4B0001E0BD /* MiniGameViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* OfflineViewControllerAppDelegate.m in Sources */,
+				72FE51CC145BF7A60001E0BD /* OfflineIndexViewController.m in Sources */,
+				72FE520F145C01DF0001E0BD /* StashViewController.m in Sources */,
+				72FE5214145C01F10001E0BD /* StoreViewController.m in Sources */,
+				72FE522E145C5B4B0001E0BD /* MiniGameViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = OfflineViewController_Prefix.pch;
+				INFOPLIST_FILE = "OfflineViewController-Info.plist";
+				PRODUCT_NAME = OfflineViewController;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = OfflineViewController_Prefix.pch;
+				INFOPLIST_FILE = "OfflineViewController-Info.plist";
+				PRODUCT_NAME = OfflineViewController;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "OfflineViewController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "OfflineViewController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

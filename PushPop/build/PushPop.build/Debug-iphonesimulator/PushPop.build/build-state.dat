@@ -1,0 +1,306 @@
+TPushPop
+v7
+r0
+t341569141.214686
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/Info.plist PushPop-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch.gch PushPop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPopAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/FirstViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/SecondViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop normal i386
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.h
+c000000004EABABDC0000000000000124
+t1319873500
+s292
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m
+c000000004EABB21A00000000000007BC
+t1319875098
+s1980
+i"FirstViewController.h"
+i"SecondViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.xib
+c000000004EABA8E80000000000004899
+t1319872744
+s18585
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.h
+c000000004EABAA5A000000000000017F
+t1319873114
+s383
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m
+c000000004EABB6F50000000000000C4D
+t1319876341
+s3149
+i"PushPopAppDelegate.h"
+i"FirstViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.h
+c000000004EABB010000000000000014E
+t1319874576
+s334
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m
+c000000004EABB1FD00000000000005F0
+t1319875069
+s1520
+i"SecondViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.xib
+c000000004EABB1F80000000000004571
+t1319875064
+s17777
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/MainWindow.xib
+c000000004EABA7E30000000000002108
+t1319872483
+s8456
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/PushPop_Prefix.pch
+c000000004EABA7E300000000000000B7
+t1319872483
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app
+t1319876341
+s272
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app.dSYM
+t1319876341
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/FirstViewController.nib
+t1319873115
+s2440
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/Info.plist
+t1319872695
+s591
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/MainWindow.nib
+t1319872696
+s1531
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PkgInfo
+t1319872695
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop
+t1319876341
+s18940
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/SecondViewController.nib
+t1319875069
+s2037
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/FirstViewController.o
+t1319875098
+s40592
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPop.LinkFileList
+c000000004EABABDC0000000000000255
+t1319873500
+s597
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPopAppDelegate.o
+t1319876341
+s54200
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/SecondViewController.o
+t1319875069
+s40564
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/main.o
+t1319872696
+s6344
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m
+c000000004EABA7E30000000000000179
+t1319872483
+s377
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch.gch
+t1319872696
+s15814064
+
+NPushPop-Info.plist
+c000000004EABA7E3000000000000038D
+t1319872483
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341569141#341569141#0(0"0(0#1#0"8618323040#0"0#
+
+CCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/FirstViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341567898.735789
+e341567898.786220
+r1
+xCompileC
+xbuild/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/FirstViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m341567898#341567898#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m8618089408#2128"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPopAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341569141.121397
+e341569141.179535
+r1
+xCompileC
+xbuild/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPopAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m341569141#341569141#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m8618583232#2126"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/PushPopAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPopAppDelegate.o0#
+
+CCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/SecondViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341567869.723339
+e341567869.764805
+r1
+xCompileC
+xbuild/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/SecondViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m341567869#341567869#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m8617613888#2130"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/SecondViewController.o0#
+
+CCompileC build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341565496.857050
+e341565496.995388
+r1
+xCompileC
+xbuild/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m341565496#341565497#0(0"0(0#0#61"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m8612949120#2090"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.xib
+s341565914.967097
+e341565915.310598
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@42"CompileXIB Classes/FirstViewController.xib341565914#341565915#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.xib8615450752#644"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/FirstViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/FirstViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.xib
+s341567869.373203
+e341567869.722964
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.xib
+lSLF07#2@43"CompileXIB Classes/SecondViewController.xib341567869#341567869#0(0"0(0#0#87"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.xib8617525664#646"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/SecondViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/Classes/SecondViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/MainWindow.xib
+s341565495.712635
+e341565496.056883
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341565495#341565496#0(0"0(0#0#69"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/MainWindow.xib8612837920#618"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop
+s341569141.200151
+e341569141.212858
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/PushPop.app.dSYM build/Debug-iphonesimulator/PushPop.app/PushPop341569141#341569141#0(0"0(0#0#102"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop8616934464#431"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop normal i386
+s341569141.179639
+e341569141.200071
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop
+xnormal
+xi386
+lSLF07#2@107"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop341569141#341569141#0(0"0(0#0#0"8617994240#980"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -F/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/Objects-normal/i386/PushPop.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PushPop0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/Info.plist PushPop-Info.plist
+s341565495.690997
+e341565495.712522
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/Info.plist
+xPushPop-Info.plist
+lSLF07#2@26"Process PushPop-Info.plist341565495#341565495#0(0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/PushPop-Info.plist13229804949078112#527"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PushPop-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch.gch PushPop_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341565496.084959
+e341565496.856774
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch.gch
+xPushPop_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile PushPop_Prefix.pch341565496#341565496#0(0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/PushPop_Prefix.pch8612913760#1966"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/PushPop-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/PushPop.build/Debug-iphonesimulator/PushPop.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/PushPop_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PushPop_Prefix-crtiawllrdvkzydenjuiqxpybyln/PushPop_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app
+s341569141.212953
+e341569141.214656
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app
+lSLF07#2@100"Touch /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app341569141#341569141#0(0"0(0#0#0"8618064960#310"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/PushPop/build/Debug-iphonesimulator/PushPop.app0#
+

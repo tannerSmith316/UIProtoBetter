@@ -1,0 +1,984 @@
+TCoreLocationDemo
+v7
+r0
+t351971760.049148
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/Info.plist CoreLocationDemo-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemoViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch.gch CoreLocationDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/PlayerLocation.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationDeatilViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GDataXMLNode.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataCompressor.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataDecompressor.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDownloadCache.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIFormDataRequest.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIHTTPRequest.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIInputStream.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASINetworkQueue.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/Reachability.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GetPlayersViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo normal i386
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CEB40000000000000AB3
+t1297403572
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004D54DEB600000000000001D0
+t1297407670
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5040000000000001533
+t1297401092
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C50400000000000008F5
+t1297401092
+s2293
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2/libxml/parser.h
+c000000004D54CF3000000000000098A9
+t1297403696
+s39081
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2/libxml/tree.h
+c000000004D54CF300000000000008F14
+t1297403696
+s36628
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2/libxml/xmlstring.h
+c000000004D54CF30000000000000155A
+t1297403696
+s5466
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004D54CF300000000000003F47
+t1297403696
+s16199
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004D54CF300000000000004BF8
+t1297403696
+s19448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netdb.h
+c000000004D54C504000000000000307F
+t1297401092
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet/in.h
+c000000004D54D0E60000000000006BAC
+t1297404134
+s27564
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54D0E6000000000000638F
+t1297404134
+s25487
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/socket.h
+c000000004D54D0EB0000000000005ACF
+t1297404139
+s23247
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/zlib.h
+c000000004D54CB4600000000000102A5
+t1297402694
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libz.1.2.3.dylib
+c000000004D54CB4700000000000123C0
+t1297402695
+s74688
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.h
+c000000004E8F81EF0000000000000453
+t1318027759
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m
+c000000004E8F81EF0000000000003E08
+t1318027759
+s15880
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASICacheDelegate.h
+c000000004E8F81EF000000000000141F
+t1318027759
+s5151
+i<Foundation/Foundation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.h
+c000000004E8F81EF000000000000072C
+t1318027759
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m
+c000000004E8F81EF0000000000001A63
+t1318027759
+s6755
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.h
+c000000004E8F81EF00000000000006A3
+t1318027759
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m
+c000000004E8F81EF0000000000001916
+t1318027759
+s6422
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.h
+c000000004E8F81EF00000000000007CC
+t1318027759
+s1996
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m
+c000000004E8F81EF0000000000004561
+t1318027759
+s17761
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.h
+c000000004E8F81EF0000000000000A85
+t1318027759
+s2693
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m
+c000000004E8F81EF0000000000002C02
+t1318027759
+s11266
+i"ASIFormDataRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.h
+c000000004E8F81EF000000000000AFE9
+t1318027759
+s45033
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m
+c000000004E8F81EF000000000002CF34
+t1318027759
+s184116
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequestConfig.h
+c000000004E8F81EF0000000000000511
+t1318027759
+s1297
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequestDelegate.h
+c000000004E8F81EF000000000000063E
+t1318027759
+s1598
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.h
+c000000004E8F81EF00000000000003C9
+t1318027759
+s969
+i<Foundation/Foundation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m
+c000000004E8F81EF0000000000000C32
+t1318027759
+s3122
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.h
+c000000004E8F81EF000000000000120D
+t1318027759
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m
+c000000004E8F81EF0000000000002C8D
+t1318027759
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIProgressDelegate.h
+c000000004E8F81EF0000000000000678
+t1318027759
+s1656
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.h
+c000000004EB0AFF4000000000000026D
+t1320202228
+s621
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m
+c000000004EB0AFF4000000000000034C
+t1320202228
+s844
+i"CoreLocationController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.h
+c000000004F308EFA00000000000002CB
+t1328582394
+s715
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m
+c000000004F315E3F0000000000000CC1
+t1328635455
+s3265
+i"CoreLocationDemoAppDelegate.h"
+i"CoreLocationDemoViewController.h"
+i"ASIHTTPRequest.h"
+i"ASIFormDataRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.h
+c000000004F04FF4F0000000000000327
+t1325727567
+s807
+i<UIKit/UIKit.h>
+i"CoreLocationController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m
+c000000004F4A722F0000000000000B68
+t1330278959
+s2920
+i"CoreLocationDemoViewController.h"
+i"PlayerLocation.h"
+i"LocationDeatilViewController.h"
+i"GetPlayersViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.h
+c000000004EE058980000000000001C3E
+t1323325592
+s7230
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+i<libxml/parser.h>
+i<libxml/xmlstring.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i"GDataDefines.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m
+c000000004EE05898000000000000C924
+t1323325592
+s51492
+i"GDataXMLNode.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.h
+c000000004F1DFD0C0000000000000280
+t1327365388
+s640
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m
+c000000004F1E00510000000000000AAC
+t1327366225
+s2732
+i"GetPlayersViewController.h"
+i"ASIHTTPRequest.h"
+i"ASIFormDataRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.xib
+c000000004F1DFDA70000000000007B51
+t1327365543
+s31569
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.h
+c000000004EFE82A50000000000000320
+t1325302437
+s800
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m
+c000000004F0C98460000000000000DFA
+t1326225478
+s3578
+i"LocationDeatilViewController.h"
+i"PlayerLocation.h"
+i"GDataXMLNode.h"
+i"ASIHTTPRequest.h"
+i"ASIFormDataRequest.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.xib
+c000000004F0500470000000000007C79
+t1325727815
+s31865
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.h
+c000000004EE2CB0300000000000001A2
+t1323485955
+s418
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m
+c000000004EE2CAF4000000000000121E
+t1323485940
+s4638
+i"LocationTable.h"
+i"PlayerLocation.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.xib
+c000000004EE2BCD70000000000001C72
+t1323482327
+s7282
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.h
+c000000004EE2D86000000000000001D1
+t1323489376
+s465
+i<Foundation/Foundation.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m
+c000000004EE2D94D0000000000000255
+t1323489613
+s597
+i"PlayerLocation.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.h
+c000000004E8F81EF0000000000001D25
+t1318027759
+s7461
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i<netinet/in.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m
+c000000004E8F81EF0000000000005E0C
+t1318027759
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemoViewController.xib
+c000000004F04FF6D000000000000841A
+t1325727597
+s33818
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemo_Prefix.pch
+c000000004EB098F600000000000000C9
+t1320196342
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/MainWindow.xib
+c000000004EB098F60000000000004E95
+t1320196342
+s20117
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1324330633
+s108652
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataCompressor.o
+t1324330633
+s23376
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataDecompressor.o
+t1324330633
+s23336
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDownloadCache.o
+t1324330633
+s60864
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIFormDataRequest.o
+t1324330633
+s48096
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIHTTPRequest.o
+t1324330633
+s517276
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIInputStream.o
+t1324330633
+s29160
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASINetworkQueue.o
+t1324330633
+s61528
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationController.o
+t1323553912
+s15672
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemo.LinkFileList
+c000000004F04FE050000000000000BE6
+t1325727237
+s3046
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoAppDelegate.o
+t1328635455
+s62584
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoViewController.o
+t1330278959
+s56552
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GDataXMLNode.o
+t1323553912
+s95160
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GetPlayersViewController.o
+t1327366225
+s56712
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationDeatilViewController.o
+t1326225478
+s63572
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationTable.o
+t1323489376
+s44696
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/PlayerLocation.o
+t1323553912
+s10812
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/Reachability.o
+t1324330633
+s33820
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/main.o
+t1323553912
+s6360
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app
+t1330278960
+s340
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app.dSYM
+t1330278960
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo
+t1330278959
+s466864
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemoViewController.nib
+t1325727602
+s5322
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/GetPlayersViewController.nib
+t1327365547
+s5370
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/Info.plist
+t1320196777
+s633
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/LocationDeatilViewController.nib
+t1325727824
+s5373
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/LocationTable.nib
+t1323482471
+s1516
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/MainWindow.nib
+t1320196778
+s1699
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/PkgInfo
+t1320196777
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m
+c000000004EB098F60000000000000181
+t1320196342
+s385
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch.gch
+t1323553912
+s15814064
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-eyfancertjlhhgffjzpdogzavmdr/CoreLocationDemo_Prefix.pch.gch
+t1320196778
+s15814064
+
+NCoreLocationDemo-Info.plist
+c000000004EB098F6000000000000038D
+t1320196342
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies351971759#351971759#0(0"0(0#1#0"8616679808#0"0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023432.091792
+e346023433.209179
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m346023432#346023433#0(0"0(0#0#97"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m8616121536#2521"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIAuthenticationDialog.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataCompressor.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023432.092665
+e346023433.029501
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m346023432#346023433#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m8612409088#2509"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataCompressor.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataCompressor.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataDecompressor.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023432.093761
+e346023433.031413
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m346023432#346023433#0(0"0(0#0#93"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m8615984736#2513"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDataDecompressor.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDownloadCache.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023433.029651
+e346023433.207659
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m346023433#346023433#0(0"0(0#0#90"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m7297078721036705792#2507"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIDownloadCache.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIFormDataRequest.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023433.031522
+e346023433.145127
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m346023433#346023433#0(0"0(0#0#92"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m8612606432#2511"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIFormDataRequest.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIHTTPRequest.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023433.043875
+e346023433.851213
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m346023433#346023433#0(0"0(0#0#88"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m8601913728#2503"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIHTTPRequest.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIInputStream.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023433.145260
+e346023433.234227
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIInputStream.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m346023433#346023433#0(0"0(0#0#88"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m8616227232#2503"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASIInputStream.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASIInputStream.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASINetworkQueue.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023433.207824
+e346023433.337127
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m346023433#346023433#0(0"0(0#0#89"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m8613069312#2505"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/ASINetworkQueue.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345246712.540768
+e345246712.672974
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m345246712#345246712#0(0"0(0#0#96"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m8616749440#2519"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationController.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350328255.578976
+e350328255.654365
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m350328255#350328255#0(0"0(0#0#101"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m8615565472#2529"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoAppDelegate.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s351971759.144995
+e351971759.783329
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m351971759#351971759#0(0"0(0#0#104"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m8615514368#2535"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/CoreLocationDemoViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemoViewController.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GDataXMLNode.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345246712.691763
+e345246712.921456
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GDataXMLNode.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m345246712#345246712#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m8620271168#2499"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GDataXMLNode.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GDataXMLNode.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GetPlayersViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s349059025.113700
+e349059025.254487
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GetPlayersViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m349059025#349059025#0(0"0(0#0#98"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m8602709728#2523"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/GetPlayersViewController.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationDeatilViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347918278.818429
+e347918278.927435
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationDeatilViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m:136: warning: incomplete implementation of class 'LocationDeatilViewController'
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m:136: warning: method definition for '-getPlayersFromServer' not found
+lSLF07#2@110"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m347918278#347918278#0(356"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m:136: warning: incomplete implementation of class 'LocationDeatilViewController'/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m:136: warning: method definition for '-getPlayersFromServer' not found2(22@65"Incomplete implementation of class 'LocationDeatilViewController'347918278#0#183#0(6@102"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m347918278#136#0#136#0#38"incomplete implementation of class '*'0(22@55"Method definition for '-getPlayersFromServer' not found347918278#183#173#0(6@102"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m347918278#136#0#136#0#35"method definition for '*' not found0(0#0#102"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m8616624672#2531"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationDeatilViewController.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationTable.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345182176.356767
+e345182176.432845
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationTable.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m: In function '+[LocationTable addLocation:]':
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m:20: warning: instance variable 'userLocations' accessed in class method
+lSLF07#2@95"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m345182176#345182176#0(294"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m: In function '+[LocationTable addLocation:]':/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m:20: warning: instance variable 'userLocations' accessed in class method1(22@58"Instance variable 'userLocations' accessed in class method345182176#134#160#0(6@87"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m345178740#20#0#20#0#0"0(0#0#87"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m8625247424#2395"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-eyfancertjlhhgffjzpdogzavmdr/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/LocationTable.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/PlayerLocation.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345246712.613774
+e345246712.699594
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/PlayerLocation.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m345246712#345246712#0(0"0(0#0#88"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m8625362016#2503"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/PlayerLocation.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/PlayerLocation.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/Reachability.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s346023433.209290
+e346023433.370176
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/Reachability.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m346023433#346023433#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m8612661856#2499"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/Reachability.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s345246712.530734
+e345246712.613638
+r1
+xCompileC
+xbuild/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m345246712#345246712#0(0"0(0#0#70"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m8620500480#2475"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.xib
+s349058347.570023
+e349058347.988078
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.xib
+lSLF07#2@47"CompileXIB Classes/GetPlayersViewController.xib349058347#349058347#0(0"0(0#0#100"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.xib8605657440#690"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/GetPlayersViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/GetPlayersViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.xib
+s347420624.287285
+e347420624.685692
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.xib
+lSLF07#2@51"CompileXIB Classes/LocationDeatilViewController.xib347420624#347420624#0(0"0(0#0#104"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.xib8609830368#698"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/LocationDeatilViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationDeatilViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.xib
+s345175271.079216
+e345175271.462018
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.xib
+lSLF07#2@36"CompileXIB Classes/LocationTable.xib345175271#345175271#0(0"0(0#0#89"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.xib8622698368#668"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/LocationTable.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/Classes/LocationTable.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemoViewController.xib
+s347420401.859859
+e347420402.286052
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemoViewController.xib
+lSLF07#2@45"CompileXIB CoreLocationDemoViewController.xib347420401#347420402#0(0"0(0#0#98"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemoViewController.xib8615374080#694"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemoViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/MainWindow.xib
+s341889577.811674
+e341889578.162812
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341889577#341889578#0(0"0(0#0#78"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/MainWindow.xib8623288608#654"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo
+s351971760.005924
+e351971760.047034
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/CoreLocationDemo.app.dSYM build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo351971760#351971760#0(0"0(0#0#129"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo8618192096#485"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo normal i386
+s351971759.783533
+e351971760.005803
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo
+xnormal
+xi386
+lSLF07#2@134"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo351971759#351971760#0(0"0(0#0#0"8618843232#1193"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/Objects-normal/i386/CoreLocationDemo.LinkFileList -mmacosx-version-min=10.6 -lxml2 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework CFNetwork -framework MobileCoreServices -framework SystemConfiguration -lz.1.2.3 -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/CoreLocationDemo0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/Info.plist CoreLocationDemo-Info.plist
+s341889577.801285
+e341889577.811575
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/Info.plist
+xCoreLocationDemo-Info.plist
+lSLF07#2@35"Process CoreLocationDemo-Info.plist341889577#341889577#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemo-Info.plist8627650304#581"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreLocationDemo-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch.gch CoreLocationDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s345246711.530698
+e345246712.530638
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch.gch
+xCoreLocationDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile CoreLocationDemo_Prefix.pch345246711#345246712#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemo_Prefix.pch8623356160#2333"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/libxml2 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemo_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-cwudwgkfzkqnaubybubzszrkwekd/CoreLocationDemo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-eyfancertjlhhgffjzpdogzavmdr/CoreLocationDemo_Prefix.pch.gch CoreLocationDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341889578.162915
+e341889578.760182
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-eyfancertjlhhgffjzpdogzavmdr/CoreLocationDemo_Prefix.pch.gch
+xCoreLocationDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile CoreLocationDemo_Prefix.pch341889578#341889578#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemo_Prefix.pch8625573344#2227"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/CoreLocationDemo-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/CoreLocationDemo.build/Debug-iphonesimulator/CoreLocationDemo.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/CoreLocationDemo_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreLocationDemo_Prefix-eyfancertjlhhgffjzpdogzavmdr/CoreLocationDemo_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app
+s351971760.047134
+e351971760.049098
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app
+lSLF07#2@118"Touch /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app351971760#351971760#0(0"0(0#0#0"8617812832#337"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/CoreLocationDemo/build/Debug-iphonesimulator/CoreLocationDemo.app0#
+

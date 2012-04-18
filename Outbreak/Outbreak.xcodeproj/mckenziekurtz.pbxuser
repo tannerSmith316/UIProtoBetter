@@ -1,0 +1,175 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* OutbreakAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 345}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 485}";
+			sepNavWindowFrame = "{{15, 208}, {1093, 565}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* OutbreakAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1261}}";
+			sepNavSelRange = "{2235, 0}";
+			sepNavVisRange = "{3, 748}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Outbreak */ = {
+		activeExec = 0;
+		executables = (
+			728EE43414E9EBD700CB94C0 /* Outbreak */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 370}}";
+			sepNavSelRange = "{161, 0}";
+			sepNavVisRange = "{0, 251}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3510, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3561, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3611, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4307}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 2197}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3738, 511}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 728EE43414E9EBD700CB94C0 /* Outbreak */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Outbreak */;
+		codeSenseManager = 728EE43F14E9EBF600CB94C0 /* Code sense */;
+		executables = (
+			728EE43414E9EBD700CB94C0 /* Outbreak */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 350874584;
+			PBXWorkspaceStateSaveDate = 350874584;
+		};
+		perUserProjectItems = {
+			728EE44014EA0C9B00CB94C0 /* PBXTextBookmark */ = 728EE44014EA0C9B00CB94C0 /* PBXTextBookmark */;
+			728EE44114EA0C9B00CB94C0 /* PBXTextBookmark */ = 728EE44114EA0C9B00CB94C0 /* PBXTextBookmark */;
+			728EE44214EA0C9B00CB94C0 /* PBXTextBookmark */ = 728EE44214EA0C9B00CB94C0 /* PBXTextBookmark */;
+			728EE44314EA0C9B00CB94C0 /* PBXTextBookmark */ = 728EE44314EA0C9B00CB94C0 /* PBXTextBookmark */;
+			728EE44414EA0C9B00CB94C0 /* PBXTextBookmark */ = 728EE44414EA0C9B00CB94C0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 728EE43E14E9EBF600CB94C0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	728EE43414E9EBD700CB94C0 /* Outbreak */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Outbreak;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	728EE43E14E9EBF600CB94C0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	728EE43F14E9EBF600CB94C0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	728EE44014EA0C9B00CB94C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 8";
+		rLen = 0;
+		rLoc = 161;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	728EE44114EA0C9B00CB94C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* OutbreakAppDelegate.h */;
+		name = "OutbreakAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	728EE44214EA0C9B00CB94C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 511;
+		vrLoc = 3795;
+	};
+	728EE44314EA0C9B00CB94C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OutbreakAppDelegate.m */;
+		name = "OutbreakAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 724;
+		vrLoc = 1948;
+	};
+	728EE44414EA0C9B00CB94C0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* OutbreakAppDelegate.m */;
+		name = "OutbreakAppDelegate.m: 64";
+		rLen = 0;
+		rLoc = 2235;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 3;
+	};
+}

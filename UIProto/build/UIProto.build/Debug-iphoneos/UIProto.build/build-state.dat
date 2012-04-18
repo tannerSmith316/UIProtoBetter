@@ -1,0 +1,498 @@
+TUIProto
+v7
+r0
+t341470859.762644
+cCheck dependencies
+cCpResource build/Debug-iphoneos/UIProto.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/Info.plist UIProto-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProtoViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch.gch UIProto_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch.gch UIProto_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/HelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/HelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto normal armv6
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto normal armv7
+cCreateUniversalBinary /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto normal "armv6 armv7"
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto
+cProcessProductPackaging "/Users/mckenziekurtz/Library/MobileDevice/Provisioning Profiles/A68031A2-A19A-4957-A2B9-D1E6B5DEED82.mobileprovision" /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/embedded.mobileprovision
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent
+cCodeSign /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004E77C27C0000000000000132
+t1316471420
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.h
+c000000004EAA358800000000000000F8
+t1319777672
+s248
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m
+c000000004EAA358800000000000005BC
+t1319777672
+s1468
+i"HelpViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.xib
+c000000004EAA35C6000000000000439D
+t1319777734
+s17309
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.h
+c000000004EAA317C00000000000001EF
+t1319776636
+s495
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m
+c000000004EAA317C0000000000000ABA
+t1319776636
+s2746
+i"UIProtoAppDelegate.h"
+i"UIProtoViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.h
+c000000004EAA370A00000000000001A1
+t1319778058
+s417
+i<UIKit/UIKit.h>
+i"HelpViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m
+c000000004EAA370A000000000000064E
+t1319778058
+s1614
+i"UIProtoViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/MainWindow.xib
+c000000004EAA317C0000000000004E29
+t1319776636
+s20009
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProtoViewController.xib
+c000000004EAA33350000000000005C97
+t1319777077
+s23703
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProto_Prefix.pch
+c000000004EAA317C00000000000000B7
+t1319776636
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+t1319778059
+s408
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app.dSYM
+t1319778059
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/HelpViewController.nib
+t1319778059
+s2002
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/Info.plist
+t1319777017
+s839
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/MainWindow.nib
+t1319777018
+s1681
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/PkgInfo
+t1319777017
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/ResourceRules.plist
+t1319777017
+s485
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto
+t1319778059
+s43360
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProtoViewController.nib
+t1319778059
+s3949
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/embedded.mobileprovision
+t1319777020
+s26151
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/HelpViewController.o
+t1319778059
+s37876
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto
+t1319778059
+s18628
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto.LinkFileList
+c000000004EAA370A000000000000023D
+t1319778058
+s573
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoAppDelegate.o
+t1319778059
+s50912
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoViewController.o
+t1319778059
+s39888
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/main.o
+t1319777019
+s6480
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/HelpViewController.o
+t1319778059
+s37848
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto
+t1319778059
+s18784
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto.LinkFileList
+c000000004EAA370A000000000000023D
+t1319778058
+s573
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoAppDelegate.o
+t1319778059
+s50800
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoViewController.o
+t1319778059
+s39840
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/main.o
+t1319777019
+s6464
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent
+t1319777020
+s625
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m
+c000000004EAA317C0000000000000179
+t1319776636
+s377
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Library/MobileDevice/Provisioning Profiles/A68031A2-A19A-4957-A2B9-D1E6B5DEED82.mobileprovision
+c000000004E7930C30000000000006627
+t1316565187
+s26151
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch.gch
+t1319777019
+s10184604
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch.gch
+t1319777018
+s10647452
+
+NUIProto-Info.plist
+c000000004EAA317C000000000000038D
+t1319776636
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341470858#341470858#0(0"0(0#1#0"8619789120#0"0#
+
+CCodeSign /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+s341470859.613867
+e341470859.762598
+r1
+xCodeSign
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/UIProto.app341470859#341470859#0(0"0(0#0#87"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app8602978752#712"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Tanner Smith (SM75E3UL24)" --resource-rules=/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/ResourceRules.plist --entitlements /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/HelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s341470859.444699
+e341470859.512365
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/HelpViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m341470859#341470859#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m8621670176#1936"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv6 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/HelpViewController.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s341470859.443301
+e341470859.518209
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m341470859#341470859#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m8619619648#1936"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv6 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoAppDelegate.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s341470859.444069
+e341470859.510815
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m341470859#341470859#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m8607577376#1942"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv6 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProtoViewController.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s341469819.174662
+e341469819.309646
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m341469819#341469819#0(0"0(0#0#61"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m8605936736#1900"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv6 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/HelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s341470859.512472
+e341470859.564236
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/HelpViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m341470859#341470859#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m8619972608#1936"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv7 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/HelpViewController.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s341470859.445873
+e341470859.530719
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m341470859#341470859#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m8621611424#1936"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv7 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoAppDelegate.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s341470859.510951
+e341470859.568259
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m341470859#341470859#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m8620687616#1942"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv7 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/UIProtoViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProtoViewController.o0#
+
+CCompileC build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s341469819.177276
+e341469819.309921
+r1
+xCompileC
+xbuild/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m341469819#341469819#0(0"0(0#0#61"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m8614957824#1900"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv7 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.xib
+s341470858.784971
+e341470859.412124
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB Classes/HelpViewController.xib341470858#341470859#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.xib8620937216#614"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/HelpViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/Classes/HelpViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/MainWindow.xib
+s341469817.937438
+e341469818.310419
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341469817#341469818#0(0"0(0#0#69"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/MainWindow.xib8606576992#590"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProtoViewController.xib
+s341470858.784419
+e341470859.442983
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProtoViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@36"CompileXIB UIProtoViewController.xib341470858#341470859#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#80"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProtoViewController.xib30962681237012596#612"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProtoViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProtoViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk0#
+
+CCpResource build/Debug-iphoneos/UIProto.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+s341469817.879609
+e341469817.937332
+r1
+xCpResource
+xbuild/Debug-iphoneos/UIProto.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist341469817#341469817#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist5922070114188801024#526"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app0#
+
+CCreateUniversalBinary /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto normal "armv6 armv7"
+s341470859.590929
+e341470859.593060
+r1
+xCreateUniversalBinary
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/UIProto.app/UIProto normal "armv6 armv7"341470859#341470859#0(0"0(0#0#66"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/armv6 armv78605889408#582"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto -output /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto
+s341470859.593127
+e341470859.611511
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/UIProto.app.dSYM build/Debug-iphoneos/UIProto.app/UIProto341470859#341470859#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto8604486560#410"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/UIProto -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto normal armv6
+s341470859.518327
+e341470859.547348
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto
+xnormal
+xarmv6
+lSLF07#2@137"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto341470859#341470859#0(0"0(0#0#0"8619257696#939"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv6/UIProto0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto normal armv7
+s341470859.568336
+e341470859.590837
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto
+xnormal
+xarmv7
+lSLF07#2@137"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto341470859#341470859#0(0"0(0#0#0"8607294272#939"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto.LinkFileList -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/Objects-normal/armv7/UIProto0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/Info.plist UIProto-Info.plist
+s341469817.913717
+e341469817.924504
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/Info.plist
+xUIProto-Info.plist
+lSLF07#2@26"Process UIProto-Info.plist341469817#341469817#0(0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProto-Info.plist8619181920#626"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIProto-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/ResourceRules.plist -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch.gch UIProto_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s341469818.310786
+e341469819.174584
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch.gch
+xUIProto_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile UIProto_Prefix.pch341469818#341469819#0(0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProto_Prefix.pch8620153536#1782"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv6 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProto_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-clqrxqkqttwkwhfhgbvfqkpwoqgd/UIProto_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch.gch UIProto_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s341469818.311851
+e341469819.112302
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch.gch
+xUIProto_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile UIProto_Prefix.pch341469818#341469819#0(0"0(0#0#73"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProto_Prefix.pch8619969600#1782"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.3 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources/armv7 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/UIProto_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProto_Prefix-gbnlszncmwgpyldhdidtvfqycsno/UIProto_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/mckenziekurtz/Library/MobileDevice/Provisioning Profiles/A68031A2-A19A-4957-A2B9-D1E6B5DEED82.mobileprovision" /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/embedded.mobileprovision
+s341469820.696286
+e341469820.697436
+r1
+xProcessProductPackaging
+x/Users/mckenziekurtz/Library/MobileDevice/Provisioning Profiles/A68031A2-A19A-4957-A2B9-D1E6B5DEED82.mobileprovision
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/mckenziekurtz/Library/MobileDevice/Provisioning Profiles/A68031A2-A19A-4957-A2B9-D1E6B5DEED82.mobileprovision" build/Debug-iphoneos/UIProto.app/embedded.mobileprovision341469820#341469820#0(0"0(0#0#112"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/embedded.mobileprovision8606399616#463"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/mckenziekurtz/Library/MobileDevice/Provisioning Profiles/A68031A2-A19A-4957-A2B9-D1E6B5DEED82.mobileprovision" -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent
+s341469820.716320
+e341469820.741796
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent341469820#341469820#0(0"0(0#0#117"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent8604138528#464"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/UIProto.build/Debug-iphoneos/UIProto.build/UIProto.xcent0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+s341470859.611758
+e341470859.613739
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app
+lSLF07#2@93"Touch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app341470859#341470859#0(0"0(0#0#0"8603551392#296"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProto/build/Debug-iphoneos/UIProto.app0#
+
